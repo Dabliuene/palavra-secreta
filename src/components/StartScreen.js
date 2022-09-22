@@ -9,6 +9,9 @@ const StartScreen = ({ startGame }) => {
         <h1>Palavra Secreta</h1>
         <p>Clique no botão abaixo para começar a jogar</p>
         <button onClick={startGame}>Jogar</button>
+        <footer>
+        &copy; Nathan Fernandes
+        </footer>
     </div>
   )
 }
