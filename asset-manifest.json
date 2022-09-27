@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/palavrasecreta/static/css/main.d38a6634.css",
-    "main.js": "/palavrasecreta/static/js/main.9bad23b9.js",
-    "static/js/787.c74d0e55.chunk.js": "/palavrasecreta/static/js/787.c74d0e55.chunk.js",
-    "index.html": "/palavrasecreta/index.html",
-    "main.d38a6634.css.map": "/palavrasecreta/static/css/main.d38a6634.css.map",
-    "main.9bad23b9.js.map": "/palavrasecreta/static/js/main.9bad23b9.js.map",
-    "787.c74d0e55.chunk.js.map": "/palavrasecreta/static/js/787.c74d0e55.chunk.js.map"
+    "main.css": "/react-palavra-secreta/static/css/main.d38a6634.css",
+    "main.js": "/react-palavra-secreta/static/js/main.70c58f11.js",
+    "static/js/787.c74d0e55.chunk.js": "/react-palavra-secreta/static/js/787.c74d0e55.chunk.js",
+    "index.html": "/react-palavra-secreta/index.html",
+    "main.d38a6634.css.map": "/react-palavra-secreta/static/css/main.d38a6634.css.map",
+    "main.70c58f11.js.map": "/react-palavra-secreta/static/js/main.70c58f11.js.map",
+    "787.c74d0e55.chunk.js.map": "/react-palavra-secreta/static/js/787.c74d0e55.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d38a6634.css",
-    "static/js/main.9bad23b9.js"
+    "static/js/main.70c58f11.js"
   ]
 }
